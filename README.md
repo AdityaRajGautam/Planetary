@@ -1,4 +1,4 @@
-# 95-SpaceOrbiters
+# SpaceOrbiters
 
 *To know how to run the code please go bottom of this page* 
 
@@ -55,9 +55,9 @@ Compatibility: The web application of SpaceOrbiters is tested on windows till ye
 1- Download and Extract Repository:
 Download the GitHub repository to your PC or laptop.
 Extract the downloaded zip file.
-After extraction, locate the folder named "95-SpaceOrbiters-main".
+After extraction, locate the folder named "SpaceOrbitersKR-main".
 
-2- Go to "spaceorbitersmain" folder
+2- Go to "SpaceOrbitersKR-main" folder
 Right-click inside the folder and select "Git Bash Here" from the context menu.
 
 3- Install Dependencies and Start Local Host:
@@ -67,7 +67,7 @@ Once Git Bash opens, execute the following commands:
 These commands will install necessary dependencies and start the local host.
 
 4-To Run "spaceorbiterclickplanets" Feature (Heliocentric system as shown in navbar):
-Navigate to the "spaceorbiterclickplanets" folder inside "95-SpaceOrbiters-main".
+Navigate to the "spaceorbiterclickplanets" folder inside "SpaceOrbitersKR-main".
 Open the "frontend" folder.
 Right-click inside the "frontend" folder and select "Git Bash Here".
 Execute the following commands:
@@ -76,7 +76,7 @@ Execute the following commands:
 This will install dependencies and start the AR solar system feature on your local host.
 
 5- Run "chatroom" Feature:
-Navigate to the "chatroom" folder inside "95-SpaceOrbiters-main".
+Navigate to the "chatroom" folder inside "SpaceOrbitersKR-main".
 Right-click inside the "chatroom" folder and select "Git Bash Here".
 Execute the following commands:
 -   npm install
