@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-center gap-0 text-white font-bold text-2xl">
               <img src={Logo} alt="" className="w-20" />
-              <span>Space Orbiters</span>
+              <span>Planetary</span>
             </div>
             <div className="text-white hidden sm:block ">
               <ul className="flex items-center gap-5 text-xl py-2  ">
@@ -22,7 +22,7 @@ const Navbar = () => {
                 <Link to="/images">Planetary</Link>
                 </li>
                 <li>
-                  <a href="http://localhost:5174/">Heliocentric system</a>
+                  <a href="http://localhost:5173/">Heliocentric system</a>
                 </li>
                 <li>
                   <Link to="http://localhost:3000/">Chat</Link>

@@ -6,7 +6,7 @@
 The inspiration behind SpaceOrbiters comes from a deep-rooted fascination with the cosmos and a desire to make space exploration more accessible and engaging in todays era. Recognizing the vast potential of technology in revolutionizing our understanding of the universe, we aimed to create a fully dynamic and comprehensive platform that not only serves as an educational resource but also a community hub for space enthusiasts and technophiles.
 
 ### What it does:
-Space Orbiters is an innovative platform that brings the universe to users' fingertips.The key features include:
+Planetary is an innovative platform that brings the universe to users' fingertips.The key features include:
 
 Community Chat: A MERN stack-based chat application for like-minded space enthusiasts to connect and share ideas.
 

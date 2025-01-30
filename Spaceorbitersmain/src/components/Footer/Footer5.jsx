@@ -67,7 +67,7 @@ const Footer = () => {
                 <div className="flex flex-col gap-3">
                   <div className="flex items-center gap-3">
                     <HiLocationMarker />
-                    <p>Kr Mangalam university</p>
+                    <p>MDU, Rohtak</p>
                   </div>
                   <div className="flex items-center gap-3 mt-3">
                     <MdMessage />
@@ -85,7 +85,7 @@ const Footer = () => {
         <div className="hidden sm:block">
           <div className="flex justify-between items-center text-center py-6 border-t-2 border-gray-300/40">
             <span className="text-sm text-gray-400">
-              @copyright 2024 || By Space Orbiters
+              @copyright 2024 || By Planetary
             </span>
             <div className="flex items-center justify-center gap-4 mb-4">
               <a href="#">

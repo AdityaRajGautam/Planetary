@@ -50,7 +50,7 @@ export default function Nav({ openNav, onCloseNav }) {
         <Typography variant="subtitle2">{"space"}</Typography>
 
         <Typography variant="body2" sx={{ color: "text.secondary" }}>
-          {`@Space orbiters`}
+          {`@Planetary`}
         </Typography>
       </Box>
     </Box>
